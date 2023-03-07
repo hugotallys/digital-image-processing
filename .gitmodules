@@ -1,0 +1,3 @@
+[submodule "digital-image-processing"]
+	path = digital-image-processing
+	url = https://github.com/tfvieira/digital-image-processing
